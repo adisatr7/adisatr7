@@ -1,16 +1,23 @@
-### Hi there 👋
+# Satria Adi Nugraha
 
-<!--
-**adisatr7/adisatr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Welcome to my Profile Page!
 
-Here are some ideas to get you started:
+Hi there! My name is Adi. I'm a passionate and fast-learning Developer specializing in web and mobile app development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I graduated from **Institut Teknologi Telkom Purwokerto** in 2023.
+- 🌟 I'm proficient in **React** and **React Native**.
+- 🌱 I’m currently expanding my skills learning **Dart** and **Flutter**.
+
+## 🫂 Social Media
+
+<a href="https://www.linkedin.com/in/adisatr7/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width=40 height=30 align="center"/>
+<a/>
+
+<a href="https://www.linkedin.com/in/adisatr7/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width=40 height=30 align="center"/>
+<a/>
+
+## 📬 Contact Me
+
+You can reach me at [adisatr7@gmail.com](mailto:adisatr7@gmail.com)
