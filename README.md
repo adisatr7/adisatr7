@@ -9,8 +9,10 @@ Hi there! My name is Adi. I'm a passionate and fast-learning Developer specializ
 
 ## 📊 My Github Activities
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adisatr7)](https://git.io/streak-stats)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adisatr7)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adisatr7)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adisatr7)
 
 
