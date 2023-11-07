@@ -5,7 +5,7 @@ Hello! I'm Adi, a dedicated and quick-learning Developer with a focus on web and
 - 🎓 I graduated from **Institut Teknologi Telkom Purwokerto** in 2023.
 - 🌟 Proficient in **React** and **React Native**.
 - 🎨 I can craft beautiful UI designs using **Figma** with a deep understanding of UI/UX principles.
-- 🧙‍♂️ My skills extend to Backend development using frameworks such as **ExpressJS** and **Flask**.
+- 🧙‍♂️ My skills extend to Backend development as well, using frameworks such as **ExpressJS** and **Flask**.
 - 👷‍♂️ I'm familiar with various database systems, including relational databases like **MySQL** and key-value/document databases such as **Firebase**.
 - 🌱 Currently expanding my skill set by diving into **Dart** and **Flutter**.
 
