@@ -1,10 +1,13 @@
 # 👋 Welcome to my Profile Page!
 
-Hi there! My name is Adi. I'm a passionate and fast-learning Developer specializing in web and mobile app development.
+Hello! I'm Adi, a dedicated and quick-learning Developer with a focus on web and mobile app development.
 
 - 🎓 I graduated from **Institut Teknologi Telkom Purwokerto** in 2023.
-- 🌟 I'm proficient in **React** and **React Native**.
-- 🌱 I’m currently expanding my skills learning **Dart** and **Flutter**.
+- 🌟 Proficient in **React** and **React Native**.
+- 🎨 I can craft beautiful UI designs using **Figma** with a deep understanding of UI/UX principles.
+- 🧙‍♂️ My skills extend to Backend development using frameworks such as **ExpressJS** and **Flask**.
+- 👷‍♂️ I'm familiar with various database systems, including relational databases like **MySQL** and key-value/document databases such as **Firebase**.
+- 🌱 Currently expanding my skill set by diving into **Dart** and **Flutter**.
 
 
 ## 📊 My Github Activities
