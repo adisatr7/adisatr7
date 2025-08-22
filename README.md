@@ -15,7 +15,7 @@ Currently working for a Singapore-based company, shipping logistics solutions th
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adisatr7)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adisatr7
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adisatr7)
 
 ## 🌱 Currently
 - Scaling React/Flutter apps for production  
