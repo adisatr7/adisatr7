@@ -1,14 +1,17 @@
-# 👋 Welcome to my Profile Page!
+# 👋 Hi, I'm Adi
 
-Hello! I'm Adi, a dedicated and quick-learning Developer with a focus on web and mobile app development.
+Full-stack engineer building scalable web and mobile apps.
+Currently working for a Singapore-based company, shipping logistics solutions that handle large, data-heavy systems.  
 
-- 🎓 I graduated from **Institut Teknologi Telkom Purwokerto** in 2023.
-- 🌟 Proficient in **React** and **React Native**.
-- 🎨 I can craft beautiful UI designs using **Figma** with a deep understanding of UI/UX principles.
-- 🧙‍♂️ My skills extend to Backend development as well, using frameworks such as **ExpressJS** and **Flask**.
-- 👷‍♂️ I'm familiar with various database systems, including relational databases like **MySQL** and key-value/document databases such as **Firebase**.
-- 🌱 Currently expanding my skill set by diving into **Dart** and **Flutter**.
+---
 
+## 🛠️ Core Stack
+- **Frontend**: React, React Native, Vue/Nuxt, Flutter, Svelte
+- **Backend**: NestJS, Ruby on Rails, Flask, Go
+- **Databases**: PostgreSQL, MySQL, Firebase, Supabase, Redis/Valkey  
+- **Infra/Tools**: AWS, Docker, Kubernetes, CI/CD
+
+---
 
 ## 📊 My Github Activities
 
@@ -18,6 +21,14 @@ Hello! I'm Adi, a dedicated and quick-learning Developer with a focus on web and
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adisatr7)
 
+---
+
+## 🌱 Currently
+- Scaling React/Flutter apps for production  
+- Optimizing backend systems with Go and Rails  
+- Exploring better DevOps workflows for faster iteration
+
+---
 
 ## 💡 Skills
 
