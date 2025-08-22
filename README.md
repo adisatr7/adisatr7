@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Adi
 
 Full-stack engineer building scalable web and mobile apps.
-Currently working for a Singapore-based company, shipping logistics solutions that handle large, data-heavy systems.  
-
----
+Currently working for a Singapore-based company, shipping logistics solutions that handle large, data-heavy systems.
 
 ## 🛠️ Core Stack
 - **Frontend**: React, React Native, Vue/Nuxt, Flutter, Svelte
@@ -11,24 +9,18 @@ Currently working for a Singapore-based company, shipping logistics solutions th
 - **Databases**: PostgreSQL, MySQL, Firebase, Supabase, Redis/Valkey  
 - **Infra/Tools**: AWS, Docker, Kubernetes, CI/CD
 
----
-
 ## 📊 My Github Activities
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adisatr7)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adisatr7)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adisatr7)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adisatr7
 
 ## 🌱 Currently
 - Scaling React/Flutter apps for production  
 - Optimizing backend systems with Go and Rails  
 - Exploring better DevOps workflows for faster iteration
-
----
 
 ## 💡 Skills
 
