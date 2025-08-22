@@ -9,6 +9,13 @@ Currently working for a Singapore-based company, shipping logistics solutions th
 - **Databases**: PostgreSQL, MySQL, Firebase, Supabase, Redis/Valkey  
 - **Infra/Tools**: AWS, Docker, Kubernetes, CI/CD
 
+## 🔎 What You'll Find Here
+- **Hobby and personal projects** where I explore new stacks or ideas  
+- **Freelance projects** (public if clients agreed, otherwise kept private)
+- Some **leftovers from university assignments**, preserved for reference
+
+> Most of my professional work is private (BitBucket and Gitlab), but I try to keep this space active with projects that reflect my growth and interests.
+
 ## 📊 My Github Activities
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adisatr7)](https://github.com/anuraghazra/github-readme-stats)
