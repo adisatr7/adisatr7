@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adi
+# 👨🏻‍💻 Software Engineer
 
 Full-stack engineer building scalable web and mobile apps.
 Currently working for a Singapore-based company, shipping logistics solutions that handle large, data-heavy systems.
