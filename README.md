@@ -14,7 +14,7 @@ Currently working for a Singapore-based company, shipping logistics solutions th
 - **Freelance projects** (public if clients agreed, otherwise kept private)
 - Some **leftovers from university assignments**, preserved for reference
 
-> Most of my professional work is private (BitBucket and Gitlab), but I try to keep this space active with projects that reflect my growth and interests.
+Most of my professional work is private (BitBucket and Gitlab), but I try to keep this space active with projects that reflect my growth and interests.
 
 ## 📊 My Github Activities
 
