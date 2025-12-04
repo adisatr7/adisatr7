@@ -1,7 +1,6 @@
-# 👨🏻‍💻 Software Engineer
+# 👨🏻‍💻 Full-stack Software Engineer
 
-Full-stack engineer building scalable web and mobile apps.
-Currently working for a Singapore-based company, shipping logistics solutions that handle large, data-heavy systems.
+Building scalable web and mobile apps. Currently working for a Singapore-based company, shipping logistics solutions that handle large and data-heavy systems.
 
 ## 🛠️ Core Stack
 - **Frontend**: React, React Native, Vue/Nuxt, Flutter, Svelte
@@ -23,11 +22,6 @@ Most of my professional work is private (BitBucket and Gitlab), but I try to kee
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adisatr7)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adisatr7)
-
-## 🌱 Currently
-- Scaling React/Flutter apps for production  
-- Optimizing backend systems with Go and Rails  
-- Exploring better DevOps workflows for faster iteration
 
 ## 💡 Skills
 
